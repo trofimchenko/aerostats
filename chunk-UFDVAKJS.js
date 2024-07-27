@@ -1,0 +1,1 @@
+import{b as c}from"./chunk-NGLT23HW.js";import{b as n}from"./chunk-WI5GDKLH.js";import{$ as r}from"./chunk-WN4S6TY5.js";var u=new n(()=>!1),h=(t,e)=>{if(t.context.get(u))return e(t);let i=r(c),a=t,o=i.currentUser()?.token;if(o){let s=t.clone({headers:t.headers.set("Authorization","Bearer "+o)});return e(s)}return e(t)};export{u as a,h as b};

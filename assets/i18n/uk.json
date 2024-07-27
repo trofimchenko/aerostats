@@ -1,0 +1,34 @@
+{
+  "general": {
+    "menu-links": {
+      "home": {
+        "title": "Головна",
+        "description": "Home"
+      },
+      "products": {
+        "title": "Products",
+        "description": "Products"
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "Contact"
+      },
+      "login": {
+        "title": "Login",
+        "description": "Login"
+      },
+      "page-not-found": {
+        "title": "Page not found",
+        "description": "Page not found"
+      },
+      "reset-password": {
+        "title": "Reset password",
+        "description": "Reset password"
+      },
+      "signup": {
+        "title": "Sign up",
+        "description": "Sign up"
+      }
+    }
+  }
+}
