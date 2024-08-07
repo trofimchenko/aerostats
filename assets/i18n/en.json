@@ -3,32 +3,150 @@
     "menu-links": {
       "home": {
         "title": "Home",
+        "page-title": "Home",
         "description": "Home"
       },
       "products": {
-        "title": "Products",
-        "description": "Products"
+        "title": "Aerostats",
+        "page-title": "Aerostats",
+        "description": "Aerostats"
       },
       "contact": {
         "title": "Contact",
+        "page-title": "Contact",
         "description": "Contact"
       },
       "login": {
         "title": "Login",
+        "page-title": "Login",
         "description": "Login"
       },
       "page-not-found": {
         "title": "Page not found",
+        "page-title": "Page not found",
         "description": "Page not found"
       },
       "reset-password": {
         "title": "Reset password",
+        "page-title": "Reset password",
         "description": "Reset password"
       },
       "signup": {
         "title": "Sign up",
+        "page-title": "Sign up",
         "description": "Sign up"
       }
+    },
+    "validation": {
+      "something-went-wrong": "Something went wrong"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Please sign in",
+      "buttons": {
+        "login": "Sign in",
+        "remember-me": "Remember me",
+        "forgot-password": "Forgot password?"
+      },
+      "validation": {
+        "account-is-not-verified": "Account is not verified. Please check your email",
+        "incorrect-username": "Incorect username. Please verify your logon credentials and try again.",
+        "incorrect-password": "Incorect password. Please verify your logon credentials and try again.",
+        "incorrect-credentials": "Incorrect credentials. Please verify your logon credentials and try again.",
+        "access-temporarily-disabled": "Access to this account has been temporarily disabled due to many failed login attempts. You can immediately restore it by resetting your password or you can try again later."
+      }
+    },
+    "sign-up": {
+      "title": "Please sign up",
+      "buttons": {
+        "sign-up": "Sign up"
+      },
+      "confirmation": {
+        "registration-complete": "Registration complete. Please check your email."
+      },
+      "validation": {
+        "username-already-exists": "Sorry, that username already exists"
+      }
+    },
+    "reset-password": {
+      "title": "Reset password",
+      "buttons": {
+        "reset": "Submit"
+      },
+      "confirmation": {
+        "reset-password": "Your password has been reset. Please check your email."
+      }
+    },
+    "set-password": {
+      "title": "Set password",
+      "buttons": {
+        "set": "Submit"
+      }
+    },
+    "form-data": {
+      "user-name": {
+        "title": "User name",
+        "validation": {
+          "required": "User name is required"
+        }
+      },
+      "email": {
+        "title": "Email",
+        "validation": {
+          "required": "Email is required",
+          "invalid-email-format": "Invalid email format"
+        }
+      },
+      "password": {
+        "title": "Password",
+        "validation": {
+          "required": "Password is required",
+          "min-length": "Password must be at least 6 characters long"
+        }
+      },
+      "confirm-password": {
+        "title": "Confirm password",
+        "validation": {
+          "required": "Password is required",
+          "do-not-match": "Passwords do not match"
+        }
+      },
+      "code": {
+        "title": "Code",
+        "validation": {
+          "required": "Code is required"
+        }
+      }
+    },
+    "validation": {}
+  },
+  "contact": {
+    "title": "Contact",
+    "buttons": {
+      "submit": "Submit"
+    },
+    "confirmation": {
+      "message-was-sent": "Thank you for your message. It has been sent."
+    },
+    "form-data": {
+      "subject": {
+        "title": "Subject",
+        "validation": {
+          "required": "Subject is required"
+        }
+      },
+      "message": {
+        "title": "Message",
+        "validation": {
+          "required": "Message is required"
+        }
+      }
+    }
+  },
+  "products": {
+    "buttons": {
+      "view": "View"
     }
   }
 }
