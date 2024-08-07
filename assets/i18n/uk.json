@@ -43,110 +43,109 @@
   },
   "auth": {
     "login": {
-      "title": "Please sign in",
+      "title": "Будь ласка, авторизуйтесь",
       "buttons": {
-        "login": "Sign in",
-        "remember-me": "Remember me",
-        "forgot-password": "Forgot password?"
+        "login": "Увійти",
+        "remember-me": "Запам'ятати мене",
+        "forgot-password": "Забули пароль?"
       },
       "validation": {
-        "account-is-not-verified": "Account is not verified. Please check your email",
-        "incorrect-username": "Incorect username. Please verify your logon credentials and try again.",
-        "incorrect-password": "Incorect password. Please verify your logon credentials and try again.",
-        "incorrect-credentials": "Incorrect credentials. Please verify your logon credentials and try again.",
-        "access-temporarily-disabled": "Access to this account has been temporarily disabled due to many failed login attempts. You can immediately restore it by resetting your password or you can try again later."
+        "account-is-not-verified": "Аккаунт не веріфіковано. Будь ласка, перевірте ваш Email.",
+        "incorrect-username": "Ім'я не є вірним. Перевірте авторизаційні дані та спробуйте щє раз.",
+        "incorrect-password": "Пароль не є вірним. Перевірте авторизаційні дані та спробуйте щє раз.",
+        "incorrect-credentials": "Авторизації дані не є вірні. Перевірте та спробуйте щє раз.",
+        "access-temporarily-disabled": "Доступ до цього облікового запису тимчасово вимкнено через багато невдалих спроб входу. Ви можете негайно відновити його, скинувши пароль, або спробувати ще раз пізніше."
       }
     },
     "sign-up": {
-      "title": "Please sign up",
+      "title": "Будь ласка, зареєструйтесь",
       "buttons": {
-        "sign-up": "Sign up"
+        "sign-up": "Зареєструватись"
       },
       "confirmation": {
-        "registration-complete": "Registration complete. Please check your email."
+        "registration-complete": "Реєстрацію завершено. Будь ласка, перевірте ваш Email."
       },
       "validation": {
-        "username-already-exists": "Sorry, that username already exists"
+        "username-already-exists": "Це ім'я вже зайняте"
       }
     },
     "reset-password": {
-      "title": "Reset password",
+      "title": "Відновити пароль",
       "buttons": {
-        "reset": "Submit"
+        "reset": "Надіслати"
       },
       "confirmation": {
-        "reset-password": "Your password has been reset. Please check your email."
+        "reset-password": "Запрос на відновлення надіслано. Будь ласка, перевірте ваш Email."
       }
     },
     "set-password": {
-      "title": "Set password",
+      "title": "Змінити пароль",
       "buttons": {
-        "set": "Submit"
+        "set": "Надіслати"
       }
     },
     "form-data": {
       "user-name": {
-        "title": "User name",
+        "title": "Ім'я",
         "validation": {
-          "required": "User name is required"
+          "required": "Необхідно заповнити поле Ім'я"
         }
       },
       "email": {
         "title": "Email",
         "validation": {
-          "required": "Email is required",
-          "invalid-email-format": "Invalid email format"
+          "required": "Необхідно заповнити поле Email",
+          "invalid-email-format": "Значення не є правильною email адресою"
         }
       },
       "password": {
-        "title": "Password",
+        "title": "Пароль",
         "validation": {
-          "required": "Password is required",
-          "min-length": "Password must be at least 6 characters long"
+          "required": "Необхідно заповнити поле Пароль",
+          "min-length": "Довжина пароля повинна бути щонайменше 6 символів"
         }
       },
       "confirm-password": {
-        "title": "Confirm password",
+        "title": "Підтвердження паролю",
         "validation": {
-          "required": "Password is required",
-          "do-not-match": "Passwords do not match"
+          "do-not-match": "Паролі не співпадають"
         }
       },
       "code": {
-        "title": "Code",
+        "title": "Код",
         "validation": {
-          "required": "Code is required"
+          "required": "Необхідно заповнити поле Код"
         }
       }
     },
     "validation": {}
   },
   "contact": {
-    "title": "Contact",
+    "title": "Контакти",
     "buttons": {
-      "submit": "Submit"
+      "submit": "Надіслати"
     },
     "confirmation": {
-      "message-was-sent": "Thank you for your message. It has been sent."
+      "message-was-sent": "Дякуємо, повідомлення надіслано"
     },
     "form-data": {
       "subject": {
-        "title": "Subject",
+        "title": "Тема",
         "validation": {
-          "required": "Subject is required"
+          "required": "Необхідно заповнити поле Тема"
         }
       },
       "message": {
-        "title": "Message",
+        "title": "Повідомлення",
         "validation": {
-          "required": "Message is required"
+          "required": "Необхідно заповнити поле Повідомлення"
         }
       }
     }
   },
   "products": {
     "buttons": {
-      "view": "View"
+      "view": "Переглянути"
     }
   }
 }
