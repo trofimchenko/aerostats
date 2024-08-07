@@ -2,39 +2,39 @@
   "general": {
     "menu-links": {
       "home": {
+        "name": "Home",
         "title": "Home",
-        "page-title": "Home",
-        "description": "Home"
+        "meta-description": "Home"
       },
-      "products": {
+      "aerostats": {
+        "name": "Aerostats",
         "title": "Aerostats",
-        "page-title": "Aerostats",
-        "description": "Aerostats"
+        "meta-description": "Aerostats"
       },
       "contact": {
+        "name": "Contact",
         "title": "Contact",
-        "page-title": "Contact",
-        "description": "Contact"
+        "meta-description": "Contact"
       },
       "login": {
+        "name": "Login",
         "title": "Login",
-        "page-title": "Login",
-        "description": "Login"
+        "meta-description": "Login"
       },
       "page-not-found": {
+        "name": "Page not found",
         "title": "Page not found",
-        "page-title": "Page not found",
-        "description": "Page not found"
+        "meta-description": "Page not found"
       },
       "reset-password": {
+        "name": "Reset password",
         "title": "Reset password",
-        "page-title": "Reset password",
-        "description": "Reset password"
+        "meta-description": "Reset password"
       },
       "signup": {
+        "name": "Sign up",
         "title": "Sign up",
-        "page-title": "Sign up",
-        "description": "Sign up"
+        "meta-description": "Sign up"
       }
     },
     "validation": {

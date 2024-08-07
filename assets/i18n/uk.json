@@ -2,39 +2,39 @@
   "general": {
     "menu-links": {
       "home": {
+        "name": "Головна",
         "title": "Головна",
-        "page-title": "Головна",
-        "description": "Головна"
+        "meta-description": "Головна"
       },
-      "products": {
+      "aerostats": {
+        "name": "Аеростати",
         "title": "Аеростати",
-        "page-title": "Аеростати",
-        "description": "Аеростати"
+        "meta-description": "Аеростати"
       },
       "contact": {
+        "name": "Контакти",
         "title": "Контакти",
-        "page-title": "Контакти",
-        "description": "Контакти"
+        "meta-description": "Контакти"
       },
       "login": {
+        "name": "Увійти",
         "title": "Увійти",
-        "page-title": "Увійти",
-        "description": "Увійти"
+        "meta-description": "Увійти"
       },
       "page-not-found": {
+        "name": "Сторінка не знайдена",
         "title": "Сторінка не знайдена",
-        "page-title": "Сторінка не знайдена",
-        "description": "Сторінка не знайдена"
+        "meta-description": "Сторінка не знайдена"
       },
       "reset-password": {
+        "name": "Відновлення доступу",
         "title": "Відновлення доступу",
-        "page-title": "Відновлення доступу",
-        "description": "Відновлення доступу"
+        "meta-description": "Відновлення доступу"
       },
       "signup": {
+        "name": "Реєстрація",
         "title": "Реєстрація",
-        "page-title": "Реєстрація",
-        "description": "Реєстрація"
+        "meta-description": "Реєстрація"
       }
     },
     "validation": {
