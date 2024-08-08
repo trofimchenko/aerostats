@@ -4,22 +4,22 @@
       "home": {
         "name": "Home",
         "title": "Home",
-        "meta-description": "Home"
+        "meta-description": "Common information about aerostats (airships, balloons, hybrids)"
       },
       "aerostats": {
         "name": "Aerostats",
         "title": "Aerostats",
-        "meta-description": "Aerostats"
+        "meta-description": "Detailed information about aerostats (airships, balloons, hybrids)"
       },
       "contact": {
         "name": "Contact",
         "title": "Contact",
-        "meta-description": "Contact"
+        "meta-description": "Contact form to leave a message"
       },
       "login": {
         "name": "Login",
         "title": "Login",
-        "meta-description": "Login"
+        "meta-description": "Login page"
       },
       "page-not-found": {
         "name": "Page not found",
@@ -29,12 +29,12 @@
       "reset-password": {
         "name": "Reset password",
         "title": "Reset password",
-        "meta-description": "Reset password"
+        "meta-description": "Reset password page"
       },
       "signup": {
         "name": "Sign up",
         "title": "Sign up",
-        "meta-description": "Sign up"
+        "meta-description": "Sign up page"
       }
     },
     "validation": {
@@ -122,7 +122,7 @@
     "validation": {}
   },
   "contact": {
-    "title": "Contact",
+    "title": "Please leave a message",
     "buttons": {
       "submit": "Submit"
     },

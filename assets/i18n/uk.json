@@ -4,22 +4,22 @@
       "home": {
         "name": "Головна",
         "title": "Головна",
-        "meta-description": "Головна"
+        "meta-description": "Загальна іннформація про аеростати (дерижаблі, повітряні кулі, гібриди)"
       },
       "aerostats": {
         "name": "Аеростати",
         "title": "Аеростати",
-        "meta-description": "Аеростати"
+        "meta-description": "Детальна іннформація про аеростати (дерижаблі, повітряні кулі, гібриди)"
       },
       "contact": {
         "name": "Контакти",
         "title": "Контакти",
-        "meta-description": "Контакти"
+        "meta-description": "Сторінка контактів для залишення повідомлення"
       },
       "login": {
         "name": "Увійти",
         "title": "Увійти",
-        "meta-description": "Увійти"
+        "meta-description": "Сторінка авторизації"
       },
       "page-not-found": {
         "name": "Сторінка не знайдена",
@@ -29,12 +29,12 @@
       "reset-password": {
         "name": "Відновлення доступу",
         "title": "Відновлення доступу",
-        "meta-description": "Відновлення доступу"
+        "meta-description": "Сторінка відновлення доступу"
       },
       "signup": {
         "name": "Реєстрація",
         "title": "Реєстрація",
-        "meta-description": "Реєстрація"
+        "meta-description": "Сторінка реєстрації"
       }
     },
     "validation": {
@@ -121,7 +121,7 @@
     "validation": {}
   },
   "contact": {
-    "title": "Контакти",
+    "title": "Будь ласка, залиште повідомлення",
     "buttons": {
       "submit": "Надіслати"
     },
